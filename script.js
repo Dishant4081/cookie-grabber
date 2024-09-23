@@ -1,1 +1,1 @@
-alert("Welcome to Alpha course");
+alert(document.cookie);
